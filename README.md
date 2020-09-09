@@ -57,3 +57,4 @@ In sum, my program takes your script and puts it in a malicious `<img>` tag. It 
 # License
 
 This is released under the 2-clause BSD license. See [LICENSE](LICENSE).
+[![Run on Repl.it](https://repl.it/badge/github/unixpickle/kahoot-hack)](https://repl.it/github/unixpickle/kahoot-hack)
